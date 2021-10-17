@@ -1,3 +1,3 @@
-insert into user values(1,systimestamp,'AB');
-insert into user values(2,systimestamp,'Jill');
-insert into user values(3,systimestamp,'Jam')
+insert into user values(10001,systimestamp,'AB');
+insert into user values(10002,systimestamp,'Jill');
+insert into user values(10003,systimestamp,'Jam')
